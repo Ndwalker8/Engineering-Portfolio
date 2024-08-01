@@ -1,4 +1,4 @@
-# John Doe's Engineering Portfolio
+# Nicholas Walker's Engineering Portfolio
 
 **Location:** Troy, NY  
 **Email:** [ndwalker8@gmail.com](mailto:ndwalker8@gmail.com)  
